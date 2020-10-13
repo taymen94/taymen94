@@ -9,5 +9,5 @@
 - ⚡ Fun fact: I eat eggs and cottage cheese with the spoon
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taymen94)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taymen94&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
